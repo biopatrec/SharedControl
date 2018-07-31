@@ -1,0 +1,28 @@
+{
+    "name": "TinyWireSio", 
+    "repository": {
+        "url": "https://github.com/nickcengel/TinyWireSio.git", 
+        "type": "git"
+    }, 
+    "platforms": [], 
+    "frameworks": [
+        "arduino"
+    ], 
+    "version": "722ada4382", 
+    "authors": [
+        {
+            "url": "https://github.com/rambo/TinyWire", 
+            "maintainer": false, 
+            "email": null, 
+            "name": "Rambo"
+        }
+    ], 
+    "keywords": [
+        "tinywire", 
+        "attiny", 
+        "i2c", 
+        "tinywires"
+    ], 
+    "id": 293, 
+    "description": "I2C Slave for Attiny"
+}
