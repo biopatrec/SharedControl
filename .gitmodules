@@ -1,0 +1,6 @@
+[submodule "ardupilot"]
+	path = ardupilot
+	url = https://github.com/casualformality/ardupilot
+[submodule "ardupilot_gazebo"]
+	path = ardupilot_gazebo
+	url = https://github.com/casualformality/ardupilot_gazebo

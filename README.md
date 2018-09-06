@@ -9,3 +9,9 @@ Collision Avoidance/Shared Control system to augment the safety and controllabil
 
 ### Rangefinder ###
 A low-cost, custom-built laser rangefinder for determining vehicle height (only applies when using a Quadcopter)
+
+### Ardupilot ###
+Ardupilot autopilot firmware with simulated LiDAR and rangefinder units
+
+### Ardupilot_Gazebo ###
+Gazebo plugin and models for Ardupilot integration
